@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "6TIsftSuIqdOk3BRHRVjyVFFioKJPkm80rCrlXEdlmgmFDhF/YCUwxlnK2e/qBQx8QEr4SgUaIXzKL/tok6enA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samur\\OneDrive\\Masaüstü\\FSDE_2912_az_WPF_Exam_Team1\\DoctorApp\\DoctorApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samur\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
+    "C:\\Users\\Samur\\.nuget\\packages\\materialdesigncolors\\1.2.7\\materialdesigncolors.1.2.7.nupkg.sha512",
+    "C:\\Users\\Samur\\.nuget\\packages\\materialdesignthemes\\3.2.0\\materialdesignthemes.3.2.0.nupkg.sha512",
+    "C:\\Users\\Samur\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
+    "C:\\Users\\Samur\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
+    "C:\\Users\\Samur\\.nuget\\packages\\mvvmlightlibsstd10\\5.4.1.1\\mvvmlightlibsstd10.5.4.1.1.nupkg.sha512",
+    "C:\\Users\\Samur\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Samur\\.nuget\\packages\\simpleinjector\\5.2.0\\simpleinjector.5.2.0.nupkg.sha512",
+    "C:\\Users\\Samur\\.nuget\\packages\\syncfusion.data.wpf\\18.4.0.33\\syncfusion.data.wpf.18.4.0.33.nupkg.sha512",
+    "C:\\Users\\Samur\\.nuget\\packages\\syncfusion.licensing\\18.4.0.33\\syncfusion.licensing.18.4.0.33.nupkg.sha512",
+    "C:\\Users\\Samur\\.nuget\\packages\\syncfusion.sfgrid.wpf\\18.4.0.33\\syncfusion.sfgrid.wpf.18.4.0.33.nupkg.sha512",
+    "C:\\Users\\Samur\\.nuget\\packages\\syncfusion.sfinput.wpf\\18.4.0.33\\syncfusion.sfinput.wpf.18.4.0.33.nupkg.sha512",
+    "C:\\Users\\Samur\\.nuget\\packages\\syncfusion.sfshared.wpf\\18.4.0.33\\syncfusion.sfshared.wpf.18.4.0.33.nupkg.sha512",
+    "C:\\Users\\Samur\\.nuget\\packages\\syncfusion.shared.wpf\\18.4.0.33\\syncfusion.shared.wpf.18.4.0.33.nupkg.sha512",
+    "C:\\Users\\Samur\\.nuget\\packages\\system.componentmodel\\4.0.1\\system.componentmodel.4.0.1.nupkg.sha512",
+    "C:\\Users\\Samur\\.nuget\\packages\\system.runtime\\4.1.0\\system.runtime.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

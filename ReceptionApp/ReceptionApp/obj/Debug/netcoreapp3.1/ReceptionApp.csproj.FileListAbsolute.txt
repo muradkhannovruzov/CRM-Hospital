@@ -1,0 +1,221 @@
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\ReceptionApp.exe
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\ReceptionApp.deps.json
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\ReceptionApp.runtimeconfig.json
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\ReceptionApp.runtimeconfig.dev.json
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\ReceptionApp.dll
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\ReceptionApp.pdb
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp.csprojAssemblyReference.cache
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\MainWindow.g.cs
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp_MarkupCompile.cache
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp_MarkupCompile.lref
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\MainWindow.baml
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp.g.resources
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp.AssemblyInfoInputs.cache
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp.AssemblyInfo.cs
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp.csproj.CoreCompileInputs.cache
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp.dll
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp.pdb
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp.genruntimeconfig.cache
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\AddDoctorUC.g.cs
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\AddPatientUC.g.cs
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\AddDoctorUC.baml
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\AddPatientUC.baml
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp.csproj.Fody.CopyLocal.cache
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp.csproj.CopyComplete
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\DoctorsTableUC.g.cs
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\PatientTableUC.g.cs
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\DoctorsTableUC.baml
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\PatientTableUC.baml
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\SimpleInjector.dll
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\Subscription.g.cs
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\Subscription.baml
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\Syncfusion.Licensing.dll
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\Syncfusion.SfInput.WPF.dll
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\Syncfusion.SfShared.WPF.dll
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\MedRepUC.g.cs
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\MedRepUC.baml
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\RoomRepUC.g.cs
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\RoomRepUC.baml
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\DevRepUC.g.cs
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\DevRepUC.baml
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\ProcRepUC.g.cs
+C:\Users\Samsung PC\source\repos\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\ProcRepUC.baml
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\ReceptionApp.exe
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\ReceptionApp.deps.json
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\ReceptionApp.runtimeconfig.json
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\ReceptionApp.runtimeconfig.dev.json
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\ReceptionApp.dll
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\ReceptionApp.pdb
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\SimpleInjector.dll
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\Syncfusion.Licensing.dll
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\Syncfusion.SfInput.WPF.dll
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\Syncfusion.SfShared.WPF.dll
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp.csprojAssemblyReference.cache
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\AddDoctorUC.g.cs
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\AddPatientUC.g.cs
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\DevRepUC.g.cs
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\DoctorsTableUC.g.cs
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\MainWindow.g.cs
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\MedRepUC.g.cs
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\PatientTableUC.g.cs
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\ProcRepUC.g.cs
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\RoomRepUC.g.cs
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\Subscription.g.cs
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp_MarkupCompile.cache
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp_MarkupCompile.lref
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\AddDoctorUC.baml
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\AddPatientUC.baml
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\DevRepUC.baml
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\DoctorsTableUC.baml
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\MainWindow.baml
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\MedRepUC.baml
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\PatientTableUC.baml
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\ProcRepUC.baml
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\RoomRepUC.baml
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\Subscription.baml
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp.g.resources
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp.AssemblyInfoInputs.cache
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp.AssemblyInfo.cs
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp.csproj.CoreCompileInputs.cache
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp.csproj.Fody.CopyLocal.cache
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp.csproj.CopyComplete
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp.dll
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp.pdb
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp.genruntimeconfig.cache
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\GenerUserPasswUC.g.cs
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\GenerUserPasswUC.baml
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\DoctorSalaryUC.g.cs
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\DoctorSalaryUC.baml
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\HomeUC.g.cs
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\HomeUC.baml
+C:\Users\Samsung PC\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\ReceptionApp.dll.config
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\ReceptionApp.exe
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\ReceptionApp.dll.config
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\ReceptionApp.deps.json
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\ReceptionApp.runtimeconfig.json
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\ReceptionApp.runtimeconfig.dev.json
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\ReceptionApp.dll
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\ReceptionApp.pdb
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\SimpleInjector.dll
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\Syncfusion.Licensing.dll
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\Syncfusion.SfInput.WPF.dll
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\Syncfusion.SfShared.WPF.dll
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp.csprojAssemblyReference.cache
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\AddDoctorUC.g.cs
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\AddPatientUC.g.cs
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\DevRepUC.g.cs
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\DoctorSalaryUC.g.cs
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\DoctorsTableUC.g.cs
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\GenerUserPasswUC.g.cs
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\HomeUC.g.cs
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\MainWindow.g.cs
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\MedRepUC.g.cs
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\PatientTableUC.g.cs
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\ProcRepUC.g.cs
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\RoomRepUC.g.cs
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\Subscription.g.cs
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp_MarkupCompile.cache
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp_MarkupCompile.lref
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\AddDoctorUC.baml
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\AddPatientUC.baml
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\DevRepUC.baml
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\DoctorSalaryUC.baml
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\DoctorsTableUC.baml
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\GenerUserPasswUC.baml
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\HomeUC.baml
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\MainWindow.baml
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\MedRepUC.baml
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\PatientTableUC.baml
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\ProcRepUC.baml
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\RoomRepUC.baml
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\Subscription.baml
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp.g.resources
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp.AssemblyInfoInputs.cache
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp.AssemblyInfo.cs
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp.csproj.CoreCompileInputs.cache
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp.csproj.Fody.CopyLocal.cache
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp.csproj.CopyComplete
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp.dll
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp.pdb
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp.genruntimeconfig.cache
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp.dll
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp.pdb
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\ReceptionApp.exe
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\ReceptionApp.dll.config
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\ReceptionApp.deps.json
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\ReceptionApp.runtimeconfig.json
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\ReceptionApp.runtimeconfig.dev.json
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\ReceptionApp.dll
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\ReceptionApp.pdb
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\SimpleInjector.dll
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\Syncfusion.Licensing.dll
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\Syncfusion.SfInput.WPF.dll
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\bin\Debug\netcoreapp3.1\Syncfusion.SfShared.WPF.dll
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp.csprojAssemblyReference.cache
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\AddDoctorUC.g.cs
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\AddPatientUC.g.cs
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\DevRepUC.g.cs
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\DoctorSalaryUC.g.cs
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\DoctorsTableUC.g.cs
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\GenerUserPasswUC.g.cs
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\HomeUC.g.cs
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\MainWindow.g.cs
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\MedRepUC.g.cs
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\PatientTableUC.g.cs
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\ProcRepUC.g.cs
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\RoomRepUC.g.cs
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\Subscription.g.cs
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp_MarkupCompile.cache
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp_MarkupCompile.lref
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\AddDoctorUC.baml
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\AddPatientUC.baml
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\DevRepUC.baml
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\DoctorSalaryUC.baml
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\DoctorsTableUC.baml
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\GenerUserPasswUC.baml
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\HomeUC.baml
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\MainWindow.baml
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\MedRepUC.baml
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\PatientTableUC.baml
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\ProcRepUC.baml
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\RoomRepUC.baml
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\View\Subscription.baml
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp.g.resources
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp.AssemblyInfoInputs.cache
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp.AssemblyInfo.cs
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp.csproj.CoreCompileInputs.cache
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp.csproj.Fody.CopyLocal.cache
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp.csproj.CopyComplete
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\ReceptionApp\ReceptionApp\obj\Debug\netcoreapp3.1\ReceptionApp.genruntimeconfig.cache

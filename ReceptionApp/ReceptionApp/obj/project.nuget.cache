@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "mAP0EnM/mfA6ybdH8MynA6uU6gL3crqEhUdyz6DX9rA38VFU9tpluKi6R0mKCuXnrpZdD8c5PfYdFPMFfcHCUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samur\\OneDrive\\Masaüstü\\FSDE_2912_az_WPF_Exam_Team1\\ReceptionApp\\ReceptionApp\\ReceptionApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samur\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
+    "C:\\Users\\Samur\\.nuget\\packages\\fody\\6.3.0\\fody.6.3.0.nupkg.sha512",
+    "C:\\Users\\Samur\\.nuget\\packages\\materialdesigncolors\\1.2.7\\materialdesigncolors.1.2.7.nupkg.sha512",
+    "C:\\Users\\Samur\\.nuget\\packages\\materialdesignthemes\\3.2.0\\materialdesignthemes.3.2.0.nupkg.sha512",
+    "C:\\Users\\Samur\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
+    "C:\\Users\\Samur\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
+    "C:\\Users\\Samur\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\Samur\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Samur\\.nuget\\packages\\propertychanged.fody\\3.3.1\\propertychanged.fody.3.3.1.nupkg.sha512",
+    "C:\\Users\\Samur\\.nuget\\packages\\simpleinjector\\5.2.0\\simpleinjector.5.2.0.nupkg.sha512",
+    "C:\\Users\\Samur\\.nuget\\packages\\syncfusion.licensing\\18.4.0.31\\syncfusion.licensing.18.4.0.31.nupkg.sha512",
+    "C:\\Users\\Samur\\.nuget\\packages\\syncfusion.sfinput.wpf\\18.4.0.31\\syncfusion.sfinput.wpf.18.4.0.31.nupkg.sha512",
+    "C:\\Users\\Samur\\.nuget\\packages\\syncfusion.sfshared.wpf\\18.4.0.31\\syncfusion.sfshared.wpf.18.4.0.31.nupkg.sha512",
+    "C:\\Users\\Samur\\.nuget\\packages\\system.componentmodel\\4.0.1\\system.componentmodel.4.0.1.nupkg.sha512",
+    "C:\\Users\\Samur\\.nuget\\packages\\system.runtime\\4.1.0\\system.runtime.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

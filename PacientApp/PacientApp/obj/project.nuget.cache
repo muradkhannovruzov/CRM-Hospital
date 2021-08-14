@@ -1,0 +1,48 @@
+{
+  "version": 2,
+  "dgSpecHash": "mtVFUyHYL9+Ry2V6AKEeto855gmPRVDcIyBD36T2P7dAgm55RSTUw9/M1W5LJL0DN+rRGhvDciZYdg2HyNllWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zabil\\Documents\\GitHub\\FSDE_2912_az_WPF_Exam_Team1\\PacientApp\\PacientApp\\PacientApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zabil\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\fody\\6.3.0\\fody.6.3.0.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\materialdesigncolors\\2.0.0-ci2347\\materialdesigncolors.2.0.0-ci2347.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\materialdesignthemes\\4.0.0-ci2347\\materialdesignthemes.4.0.0-ci2347.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.31\\microsoft.xaml.behaviors.wpf.1.1.31.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\mvvmlightlibsstd10\\5.4.1.1\\mvvmlightlibsstd10.5.4.1.1.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\propertychanged.fody\\3.3.1\\propertychanged.fody.3.3.1.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\simpleinjector\\5.2.0\\simpleinjector.5.2.0.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\syncfusion.licensing\\18.4.0.33\\syncfusion.licensing.18.4.0.33.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\syncfusion.sfinput.wpf\\18.4.0.33\\syncfusion.sfinput.wpf.18.4.0.33.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\syncfusion.sfshared.wpf\\18.4.0.33\\syncfusion.sfshared.wpf.18.4.0.33.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\system.componentmodel\\4.0.1\\system.componentmodel.4.0.1.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\system.runtime\\4.1.0\\system.runtime.4.1.0.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\windowsapicodepack-core\\1.1.1\\windowsapicodepack-core.1.1.1.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\windowsapicodepack-shell\\1.1.1\\windowsapicodepack-shell.1.1.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'WindowsAPICodePack-Core 1.1.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "WindowsAPICodePack-Core",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'WindowsAPICodePack-Shell 1.1.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "WindowsAPICodePack-Shell",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

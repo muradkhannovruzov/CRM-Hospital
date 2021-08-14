@@ -1,0 +1,83 @@
+﻿<Window x:Class="ReceptionApp.MainWindow" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+xmlns:local="clr-namespace:ReceptionApp" xmlns:views="clr-namespace:ReceptionApp.View" Title="ReceptionApp"
+xmlns:viewModel="clr-namespace:ReceptionApp.ViewModel"  mc:Ignorable="d"  MinHeight="454" Height="454" MinWidth="886" Width="886"
+xmlns:DataContext="clr-namespace:ReceptionApp.ViewModel" xmlns:imageClick="http://schemas.microsoft.com/xaml/behaviors"
+xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+TextElement.FontWeight="Regular"
+TextElement.FontSize="13"
+TextOptions.TextFormattingMode="Ideal"
+TextOptions.TextRenderingMode="Auto"
+Background="{DynamicResource MaterialDesignPaper}"
+FontFamily="{DynamicResource MaterialDesignFont}">
+
+    <Window.Resources>
+        <DataTemplate DataType="{x:Type viewModel:AddPAtientVM}">
+            <views:AddPatientUC/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewModel:AddDoctorVM}">
+            <views:AddDoctorUC/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewModel:DoctorsTableVM}">
+            <views:DoctorsTableUC/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewModel:PatientTableVM}">
+            <views:PatientTableUC/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewModel:SubscVM}">
+            <views:Subscription/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewModel:MedRepVM}">
+            <views:MedRepUC/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewModel:RoomRepVM}">
+            <views:RoomRepUC/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewModel:DevRepVM}">
+            <views:DevRepUC/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewModel:ProcRepVM}">
+            <views:ProcRepUC/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewModel:GenerUserPasswVM}">
+            <views:GenerUserPasswUC/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewModel:DoctorSalaryVM}">
+            <views:DoctorSalaryUC/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewModel:HomeVM}">
+            <views:HomeUC/>
+        </DataTemplate>
+    </Window.Resources>
+
+    
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1.1*"/>
+            <ColumnDefinition Width="4*"/>
+        </Grid.ColumnDefinitions>
+        
+        <Button Margin="15,10,10,0" Background="White" Height="30" Width="58" VerticalAlignment="Top" HorizontalAlignment="Center" BorderThickness="0" Command="{Binding GenerateBtn}">
+            <Image Source="\Images\Code_Computer-512.png" Stretch="Fill"  VerticalAlignment="Top"  HorizontalAlignment="Right"></Image>
+        </Button>
+        <Image Margin="5" Grid.Column="1" Stretch="Fill" Source="\Images\HospitalReception.jpg"></Image>
+        
+        <Viewbox>
+            <StackPanel Margin="10,48,0,0" HorizontalAlignment="Left" Width="178">
+                <Button Height="26" Margin="6" Command="{Binding HomeBtn}">Home</Button>
+                <Button Height="26" Margin="6" Command="{Binding AddPBtn}" >Add Patient</Button>
+                <Button Height="26" Margin="6" Command="{Binding AddDBtn}">Add Doctor</Button>
+                <Button Height="26" Margin="6" Command="{Binding SubscriptionBtn}">Subscription</Button>
+                <Button Height="26" Margin="6" Command="{Binding DoctorTableBtn}">All Doctor Tables</Button>
+                <Button Height="26" Margin="6" Command="{Binding PatientTableBtn}">All Patient Tables</Button>
+                <Button Height="26" Margin="6" Command="{Binding MedicineReposBtn}">Medicine Repos</Button>
+                <Button Height="26" Margin="6" Command="{Binding RoomReposBtn}">Rooms Repos</Button>
+                <Button Height="26" Margin="6" Command="{Binding DeviceReposBtn}">Devices Repos</Button>
+                <Button Height="26" Margin="6" Command="{Binding ProcedureReposBtn}">Procedure Repos</Button>
+                <Button Height="26" Margin="6" Command="{Binding SalaryBtn}">Doctor's salary</Button>
+            </StackPanel>
+        </Viewbox>
+        
+        <ContentControl Grid.Column="1" Content="{Binding CurrentViewModel}"></ContentControl>
+    </Grid>
+</Window>

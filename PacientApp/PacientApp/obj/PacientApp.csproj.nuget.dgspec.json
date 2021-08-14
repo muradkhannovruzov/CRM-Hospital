@@ -1,0 +1,184 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\zabil\\Documents\\GitHub\\FSDE_2912_az_WPF_Exam_Team1\\PacientApp\\PacientApp\\PacientApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\zabil\\Documents\\GitHub\\FSDE_2912_az_WPF_Exam_Team1\\HealthCare\\HealthCare\\HealthCare.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\zabil\\Documents\\GitHub\\FSDE_2912_az_WPF_Exam_Team1\\HealthCare\\HealthCare\\HealthCare.csproj",
+        "projectName": "HealthCare",
+        "projectPath": "C:\\Users\\zabil\\Documents\\GitHub\\FSDE_2912_az_WPF_Exam_Team1\\HealthCare\\HealthCare\\HealthCare.csproj",
+        "packagesPath": "C:\\Users\\zabil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zabil\\Documents\\GitHub\\FSDE_2912_az_WPF_Exam_Team1\\HealthCare\\HealthCare\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zabil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "MaterialDesignThemes": {
+              "target": "Package",
+              "version": "[4.0.0-ci2347, )"
+            },
+            "Microsoft.Xaml.Behaviors.Wpf": {
+              "target": "Package",
+              "version": "[1.1.31, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Syncfusion.SfInput.WPF": {
+              "target": "Package",
+              "version": "[18.4.0.33, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\zabil\\Documents\\GitHub\\FSDE_2912_az_WPF_Exam_Team1\\PacientApp\\PacientApp\\PacientApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\zabil\\Documents\\GitHub\\FSDE_2912_az_WPF_Exam_Team1\\PacientApp\\PacientApp\\PacientApp.csproj",
+        "projectName": "PacientApp",
+        "projectPath": "C:\\Users\\zabil\\Documents\\GitHub\\FSDE_2912_az_WPF_Exam_Team1\\PacientApp\\PacientApp\\PacientApp.csproj",
+        "packagesPath": "C:\\Users\\zabil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zabil\\Documents\\GitHub\\FSDE_2912_az_WPF_Exam_Team1\\PacientApp\\PacientApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zabil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\zabil\\Documents\\GitHub\\FSDE_2912_az_WPF_Exam_Team1\\HealthCare\\HealthCare\\HealthCare.csproj": {
+                "projectPath": "C:\\Users\\zabil\\Documents\\GitHub\\FSDE_2912_az_WPF_Exam_Team1\\HealthCare\\HealthCare\\HealthCare.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.3.0, )"
+            },
+            "MaterialDesignThemes": {
+              "target": "Package",
+              "version": "[4.0.0-ci2347, )"
+            },
+            "Microsoft.Xaml.Behaviors.Wpf": {
+              "target": "Package",
+              "version": "[1.1.31, )"
+            },
+            "MvvmLightLibsStd10": {
+              "target": "Package",
+              "version": "[5.4.1.1, )"
+            },
+            "PropertyChanged.Fody": {
+              "target": "Package",
+              "version": "[3.3.1, )"
+            },
+            "SimpleInjector": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "Syncfusion.SfInput.WPF": {
+              "target": "Package",
+              "version": "[18.4.0.33, )"
+            },
+            "WindowsAPICodePack-Shell": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

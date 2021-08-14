@@ -1,0 +1,367 @@
+[
+  
+  {
+    "Price": 2.72,
+    "Name": "spasmalgon",
+    "Dose": 347,
+    "IsEnable": true,
+    "Count": 25
+  },
+  {
+    "Price": 20.35,
+    "Name": "albuterol aerosol",
+    "Dose": 292,
+    "IsEnable": false,
+    "Count": 0
+  },
+  {
+    "Price": 2.68,
+    "Name": "acetaminophen and codeine",
+    "Dose": 164,
+    "IsEnable": false,
+    "Count": 0
+  },
+  {
+    "Price": 5.21,
+    "Name": "albuterol HFA",
+    "Dose": 286,
+    "IsEnable": false,
+    "Count": 0
+  },
+  {
+    "Price": 39.8,
+    "Name": "alendronate",
+    "Dose": 226,
+    "IsEnable": false,
+    "Count": 0
+  },
+  {
+    "Price": 20.13,
+    "Name": "allopurinol",
+    "Dose": 240,
+    "IsEnable": false,
+    "Count": 0
+  },
+  {
+    "Price": 24,
+    "Name": "alprazolam",
+    "Dose": 223,
+    "IsEnable": false,
+    "Count": 0
+  },
+  {
+    "Price": 46.26,
+    "Name": "amoxicillin and clavulanate K\u002B",
+    "Dose": 323,
+    "IsEnable": false,
+    "Count": 0
+  },
+  {
+    "Price": 19.64,
+    "Name": "atenolol",
+    "Dose": 301,
+    "IsEnable": false,
+    "Count": 0
+  },
+  {
+    "Price": 34.65,
+    "Name": "atorvastatin",
+    "Dose": 173,
+    "IsEnable": true,
+    "Count": 45
+  },
+  {
+    "Price": 38.02,
+    "Name": "azithromycin",
+    "Dose": 166,
+    "IsEnable": true,
+    "Count": 52
+  },
+  {
+    "Price": 28.73,
+    "Name": "benazepril and amlodipine",
+    "Dose": 378,
+    "IsEnable": false,
+    "Count": 0
+  },
+  {
+    "Price": 4.03,
+    "Name": "carisoprodol",
+    "Dose": 239,
+    "IsEnable": false,
+    "Count": 0
+  },
+  {
+    "Price": 16.91,
+    "Name": "carvedilol",
+    "Dose": 180,
+    "IsEnable": true,
+    "Count": 71
+  },
+  {
+    "Price": 21.47,
+    "Name": "cefdinir",
+    "Dose": 387,
+    "IsEnable": false,
+    "Count": 0
+  },
+  {
+    "Price": 21.99,
+    "Name": "celecoxib",
+    "Dose": 350,
+    "IsEnable": true,
+    "Count": 12
+  },
+  {
+    "Price": 24.5,
+    "Name": "cephalexin",
+    "Dose": 350,
+    "IsEnable": true,
+    "Count": 32
+  },
+  {
+    "Price": 10.08,
+    "Name": "ciprofloxacin",
+    "Dose": 377,
+    "IsEnable": true,
+    "Count": 21
+  },
+  {
+    "Price": 19.91,
+    "Name": "citalopram",
+    "Dose": 377,
+    "IsEnable": false,
+    "Count": 0
+  },
+  {
+    "Price": 32.7,
+    "Name": "clonazepam",
+    "Dose": 382,
+    "IsEnable": true,
+    "Count": 46
+  },
+  {
+    "Price": 10.86,
+    "Name": "clonidine HCl",
+    "Dose": 167,
+    "IsEnable": true,
+    "Count": 40
+  },
+  {
+    "Price": 8.41,
+    "Name": "clopidogrel",
+    "Dose": 320,
+    "IsEnable": false,
+    "Count": 0
+  },
+  {
+    "Price": 34.9,
+    "Name": "zolpidem",
+    "Dose": 230,
+    "IsEnable": true,
+    "Count": 37
+  },
+  {
+    "Price": 35.57,
+    "Name": "verapamil SR",
+    "Dose": 331,
+    "IsEnable": false,
+    "Count": 0
+  },
+  {
+    "Price": 15.42,
+    "Name": "venlafaxine XR",
+    "Dose": 206,
+    "IsEnable": true,
+    "Count": 23
+  },
+  {
+    "Price": 37.4,
+    "Name": "valsartan",
+    "Dose": 324,
+    "IsEnable": false,
+    "Count": 0
+  },
+  {
+    "Price": 25.72,
+    "Name": "tramadol",
+    "Dose": 292,
+    "IsEnable": false,
+    "Count": 0
+  },
+  {
+    "Price": 31.55,
+    "Name": "topiramate",
+    "Dose": 189,
+    "IsEnable": false,
+    "Count": 0
+  },
+  {
+    "Price": 32.01,
+    "Name": "tamsulosin",
+    "Dose": 297,
+    "IsEnable": true,
+    "Count": 5
+  },
+  {
+    "Price": 42.96,
+    "Name": "simvastatin",
+    "Dose": 221,
+    "IsEnable": false,
+    "Count": 0
+  },
+  {
+    "Price": 15.71,
+    "Name": "rosuvastatin",
+    "Dose": 126,
+    "IsEnable": true,
+    "Count": 3
+  },
+  {
+    "Price": 29.06,
+    "Name": "quetiapine",
+    "Dose": 307,
+    "IsEnable": false,
+    "Count": 0
+  },
+  {
+    "Price": 38.49,
+    "Name": "pregabalin",
+    "Dose": 120,
+    "IsEnable": true,
+    "Count": 5
+  },
+  {
+    "Price": 2.75,
+    "Name": "potassium Chloride",
+    "Dose": 290,
+    "IsEnable": true,
+    "Count": 12
+  },
+  {
+    "Price": 30.14,
+    "Name": "prednisone",
+    "Dose": 280,
+    "IsEnable": false,
+    "Count": 0
+  },
+  {
+    "Price": 29.01,
+    "Name": "omeprazole",
+    "Dose": 383,
+    "IsEnable": false,
+    "Count": 0
+  },
+  {
+    "Price": 21.45,
+    "Name": "naproxen",
+    "Dose": 368,
+    "IsEnable": true,
+    "Count": 10
+  },
+  {
+    "Price": 46.81,
+    "Name": "montelukast",
+    "Dose": 358,
+    "IsEnable": true,
+    "Count": 7
+  },
+  {
+    "Price": 20.36,
+    "Name": "metoprolol tartrate",
+    "Dose": 300,
+    "IsEnable": true,
+    "Count": 72
+  },
+  {
+    "Price": 24.64,
+    "Name": "methylprednisone",
+    "Dose": 181,
+    "IsEnable": false,
+    "Count": 0
+  },
+  {
+    "Price": 17.17,
+    "Name": "losartan",
+    "Dose": 279,
+    "IsEnable": false,
+    "Count": 0
+  },
+  {
+    "Price": 46.7,
+    "Name": "lisinopril",
+    "Dose": 173,
+    "IsEnable": true,
+    "Count": 51
+  },
+  {
+    "Price": 37.01,
+    "Name": "glyburide",
+    "Dose": 387,
+    "IsEnable": false,
+    "Count": 0
+  },
+  {
+    "Price": 7.64,
+    "Name": "glipizide",
+    "Dose": 329,
+    "IsEnable": true,
+    "Count": 56
+  },
+  {
+    "Price": 7.96,
+    "Name": "glimepiride",
+    "Dose": 242,
+    "IsEnable": true,
+    "Count": 48
+  },
+  {
+    "Price": 13.99,
+    "Name": "clonazepam",
+    "Dose": 340,
+    "IsEnable": false,
+    "Count": 0
+  },
+  {
+    "Price": 38.44,
+    "Name": "gabapentin",
+    "Dose": 366,
+    "IsEnable": false,
+    "Count": 0
+  },
+  {
+    "Price": 2.7,
+    "Name": "furosemide",
+    "Dose": 291,
+    "IsEnable": true,
+    "Count": 30
+  },
+  {
+    "Price": 49.21,
+    "Name": "fluconozole",
+    "Dose": 219,
+    "IsEnable": true,
+    "Count": 92
+  },
+  {
+    "Price": 44.51,
+    "Name": "ezetimibe",
+    "Dose": 329,
+    "IsEnable": true,
+    "Count": 69
+  },
+  {
+    "Price": 18.28,
+    "Name": "enalapril",
+    "Dose": 308,
+    "IsEnable": false,
+    "Count": 0
+  },
+  {
+    "Price": 47.51,
+    "Name": "diazepam",
+    "Dose": 317,
+    "IsEnable": false,
+    "Count": 0
+  }
+]

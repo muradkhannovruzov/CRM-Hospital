@@ -1,0 +1,32 @@
+﻿<UserControl x:Class="DoctorApp.VIews.LoginUC"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:md="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns:local="clr-namespace:DoctorApp.VIews" xmlns:viewmodels="clr-namespace:DoctorApp.ViewModels" d:DataContext="{d:DesignInstance Type=viewmodels:LoginVM}"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="640">
+
+
+    <Border  CornerRadius="40" Margin="15">
+        <Border.Background>
+            <ImageBrush ImageSource="/Images/Medicine.jpg"  Stretch="Fill"/>
+        </Border.Background>
+        <StackPanel Margin="45">
+            <Label Content="Login" Margin="3" HorizontalAlignment="Center" Foreground="Gray" FontSize="30"/>
+            <Separator ></Separator>
+            <Label Visibility="Hidden" Content="Username:" Margin="3" HorizontalAlignment="Center" Foreground="White" FontSize="10"/>
+            <Label Visibility="Hidden" Content="Username:" Margin="3" HorizontalAlignment="Center" Foreground="White" FontSize="5"/>
+            <Label Content="Username:" Margin="3" HorizontalAlignment="Center" Foreground="Gray" FontSize="18"/>
+            <Label Visibility="Hidden" Content="Username:" Margin="3" HorizontalAlignment="Center" Foreground="White" FontSize="10"/>
+            <Label Visibility="Hidden" Content="Username:" Margin="3" HorizontalAlignment="Center" Foreground="White" FontSize="1"/>
+            <TextBox VerticalAlignment="Center" Text="{Binding UsernameText}" Margin="5" FontSize="18" Width="200" HorizontalAlignment="Center"/>
+            <Label Visibility="Hidden" Content="Username:" Margin="3" HorizontalAlignment="Center" Foreground="White" FontSize="1"/>
+            <Label Visibility="Hidden" Content="Username:" Margin="3" HorizontalAlignment="Center" Foreground="Gray" FontSize="1"/>
+            <TextBox Text="{Binding PasswordText}" Margin="5" FontSize="18" Width="200" HorizontalAlignment="Center"/>
+            <Button Command="{Binding LoginCommand}" Content="Login" Background="#2596be" Margin="60,20" Width="550" FontSize="35" Height="65" VerticalContentAlignment="Center" />
+            <Label Content="Username or password is incorrect" FontSize="14" Foreground="Red" Visibility="{Binding Incorrect}"/>
+        </StackPanel>
+    </Border>
+</UserControl>

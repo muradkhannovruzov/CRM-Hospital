@@ -1,0 +1,9 @@
+C:\Users\Haci\Desktop\HomeWork\HealthCare\HealthCare\bin\Release\netstandard2.0\HealthCare.deps.json
+C:\Users\Haci\Desktop\HomeWork\HealthCare\HealthCare\bin\Release\netstandard2.0\HealthCare.dll
+C:\Users\Haci\Desktop\HomeWork\HealthCare\HealthCare\bin\Release\netstandard2.0\HealthCare.pdb
+C:\Users\Haci\Desktop\HomeWork\HealthCare\HealthCare\obj\Release\netstandard2.0\HealthCare.csprojAssemblyReference.cache
+C:\Users\Haci\Desktop\HomeWork\HealthCare\HealthCare\obj\Release\netstandard2.0\HealthCare.AssemblyInfoInputs.cache
+C:\Users\Haci\Desktop\HomeWork\HealthCare\HealthCare\obj\Release\netstandard2.0\HealthCare.AssemblyInfo.cs
+C:\Users\Haci\Desktop\HomeWork\HealthCare\HealthCare\obj\Release\netstandard2.0\HealthCare.csproj.CoreCompileInputs.cache
+C:\Users\Haci\Desktop\HomeWork\HealthCare\HealthCare\obj\Release\netstandard2.0\HealthCare.dll
+C:\Users\Haci\Desktop\HomeWork\HealthCare\HealthCare\obj\Release\netstandard2.0\HealthCare.pdb

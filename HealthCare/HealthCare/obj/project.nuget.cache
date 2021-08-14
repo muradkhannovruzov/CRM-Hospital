@@ -1,0 +1,48 @@
+{
+  "version": 2,
+  "dgSpecHash": "ctJTvjaTV6aSrZljgHEfr6mlOfm+Le/kJ5LUqkVLiDgEndNW9o41OQZZpp+Y+yhJbOZ3e/Su8GIDsqfa4KOjZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zabil\\Documents\\GitHub\\FSDE_2912_az_WPF_Exam_Team1\\HealthCare\\HealthCare\\HealthCare.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zabil\\.nuget\\packages\\materialdesignthemes\\4.0.0-ci2347\\materialdesignthemes.4.0.0-ci2347.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.31\\microsoft.xaml.behaviors.wpf.1.1.31.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\syncfusion.licensing\\18.4.0.33\\syncfusion.licensing.18.4.0.33.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\syncfusion.sfinput.wpf\\18.4.0.33\\syncfusion.sfinput.wpf.18.4.0.33.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\syncfusion.sfshared.wpf\\18.4.0.33\\syncfusion.sfshared.wpf.18.4.0.33.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Xaml.Behaviors.Wpf 1.1.31' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.Xaml.Behaviors.Wpf",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Syncfusion.SfInput.WPF 18.4.0.33' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Syncfusion.SfInput.WPF",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Syncfusion.SfShared.WPF 18.4.0.33' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Syncfusion.SfShared.WPF",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}

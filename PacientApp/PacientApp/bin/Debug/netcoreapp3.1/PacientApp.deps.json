@@ -1,0 +1,313 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PacientApp/1.0.0": {
+        "dependencies": {
+          "FluentValidation": "9.3.0",
+          "HealthCare": "1.0.0",
+          "MaterialDesignThemes": "4.0.0-ci2347",
+          "Microsoft.Xaml.Behaviors.Wpf": "1.1.31",
+          "MvvmLightLibsStd10": "5.4.1.1",
+          "PropertyChanged.Fody": "3.3.1",
+          "SimpleInjector": "5.2.0",
+          "Syncfusion.SfInput.WPF": "18.4.0.33",
+          "WindowsAPICodePack-Shell": "1.1.1"
+        },
+        "runtime": {
+          "PacientApp.dll": {}
+        }
+      },
+      "FluentValidation/9.3.0": {
+        "runtime": {
+          "lib/netstandard2.0/FluentValidation.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.3.0.0"
+          }
+        }
+      },
+      "Fody/6.3.0": {},
+      "MaterialDesignColors/2.0.0-ci2347": {
+        "runtime": {
+          "lib/netcoreapp3.1/MaterialDesignColors.dll": {
+            "assemblyVersion": "2.0.0.2347",
+            "fileVersion": "2.0.0.2347"
+          }
+        }
+      },
+      "MaterialDesignThemes/4.0.0-ci2347": {
+        "dependencies": {
+          "MaterialDesignColors": "2.0.0-ci2347"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/MaterialDesignThemes.Wpf.dll": {
+            "assemblyVersion": "4.0.0.2347",
+            "fileVersion": "4.0.0.2347"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.0.1": {},
+      "Microsoft.NETCore.Targets/1.0.1": {},
+      "Microsoft.Xaml.Behaviors.Wpf/1.1.31": {
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Xaml.Behaviors.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.31.10800"
+          }
+        }
+      },
+      "MvvmLightLibsStd10/5.4.1.1": {
+        "runtime": {
+          "lib/netstandard1.0/GalaSoft.MvvmLight.dll": {
+            "assemblyVersion": "5.4.1.0",
+            "fileVersion": "5.4.1.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "PropertyChanged.Fody/3.3.1": {
+        "dependencies": {
+          "Fody": "6.3.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/PropertyChanged.dll": {
+            "assemblyVersion": "3.3.1.0",
+            "fileVersion": "3.3.1.0"
+          }
+        }
+      },
+      "SimpleInjector/5.2.0": {
+        "dependencies": {
+          "System.ComponentModel": "4.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.1/SimpleInjector.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        }
+      },
+      "Syncfusion.Licensing/18.4.0.33": {
+        "runtime": {
+          "lib/netcoreapp3.1/Syncfusion.Licensing.dll": {
+            "assemblyVersion": "18.4.0.33",
+            "fileVersion": "18.4.0.33"
+          }
+        }
+      },
+      "Syncfusion.SfInput.WPF/18.4.0.33": {
+        "dependencies": {
+          "Syncfusion.Licensing": "18.4.0.33",
+          "Syncfusion.SfShared.WPF": "18.4.0.33"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Syncfusion.SfInput.WPF.dll": {
+            "assemblyVersion": "18.4310.0.33",
+            "fileVersion": "18.4310.0.33"
+          }
+        }
+      },
+      "Syncfusion.SfShared.WPF/18.4.0.33": {
+        "dependencies": {
+          "Syncfusion.Licensing": "18.4.0.33"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Syncfusion.SfShared.WPF.dll": {
+            "assemblyVersion": "18.4310.0.33",
+            "fileVersion": "18.4310.0.33"
+          }
+        }
+      },
+      "System.ComponentModel/4.0.1": {
+        "dependencies": {
+          "System.Runtime": "4.1.0"
+        }
+      },
+      "System.Runtime/4.1.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.0.1",
+          "Microsoft.NETCore.Targets": "1.0.1"
+        }
+      },
+      "WindowsAPICodePack-Core/1.1.1": {
+        "runtime": {
+          "lib/Microsoft.WindowsAPICodePack.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        }
+      },
+      "WindowsAPICodePack-Shell/1.1.1": {
+        "dependencies": {
+          "WindowsAPICodePack-Core": "1.1.1"
+        },
+        "runtime": {
+          "lib/Microsoft.WindowsAPICodePack.Shell.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        }
+      },
+      "HealthCare/1.0.0": {
+        "dependencies": {
+          "MaterialDesignThemes": "4.0.0-ci2347",
+          "Microsoft.Xaml.Behaviors.Wpf": "1.1.31",
+          "Newtonsoft.Json": "12.0.3",
+          "Syncfusion.SfInput.WPF": "18.4.0.33"
+        },
+        "runtime": {
+          "HealthCare.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PacientApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FluentValidation/9.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-C44l6Ih+YwpED/TsXfl6LIq6Z4wLXahstnr6T70uUg1Hs7/bLBKKAo9Nl0sLhVjDE8TA+fF+O3IM4nDrwabcSQ==",
+      "path": "fluentvalidation/9.3.0",
+      "hashPath": "fluentvalidation.9.3.0.nupkg.sha512"
+    },
+    "Fody/6.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kBGlW/vBUvBSyCvFI3YICNl77gjUr0KMROlBTeBPN/+J3JMU57w1dpXPwjmU4ahdBTYLomzgxKLaJ3jVNuXuQg==",
+      "path": "fody/6.3.0",
+      "hashPath": "fody.6.3.0.nupkg.sha512"
+    },
+    "MaterialDesignColors/2.0.0-ci2347": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wkzMsa1UfInz6k1TKXIY22GGn4U2UukJ1FVMH5/1vlEgJ04yqegyb+vjTS+S4u+FxlTBIFvE0kMJjisvj3rUiA==",
+      "path": "materialdesigncolors/2.0.0-ci2347",
+      "hashPath": "materialdesigncolors.2.0.0-ci2347.nupkg.sha512"
+    },
+    "MaterialDesignThemes/4.0.0-ci2347": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Aw+JwlibhCm342KsDNCwfcTy5qzZ3ZKe73S9JiDElrCnqjhAAGtVywo8hrlnFiJcClWTb4mNT9C32Y6dm7mtWw==",
+      "path": "materialdesignthemes/4.0.0-ci2347",
+      "hashPath": "materialdesignthemes.4.0.0-ci2347.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2G6OjjJzwBfNOO8myRV/nFrbTw5iA+DEm0N+qUqhrOmaVtn4pC77h38I1jsXGw5VH55+dPfQsqHD0We9sCl9FQ==",
+      "path": "microsoft.netcore.platforms/1.0.1",
+      "hashPath": "microsoft.netcore.platforms.1.0.1.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Targets/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rkn+fKobF/cbWfnnfBOQHKVKIOpxMZBvlSHkqDWgBpwGDcLRduvs3D9OLGeV6GWGvVwNlVi2CBbTjuPmtHvyNw==",
+      "path": "microsoft.netcore.targets/1.0.1",
+      "hashPath": "microsoft.netcore.targets.1.0.1.nupkg.sha512"
+    },
+    "Microsoft.Xaml.Behaviors.Wpf/1.1.31": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LZpuf82ACZWldmfMuv3CTUMDh3o0xo0uHUaybR5HgqVLDBJJ9RZLykplQ/bTJd0/VDt3EhD4iDgUgbdIUAM+Kg==",
+      "path": "microsoft.xaml.behaviors.wpf/1.1.31",
+      "hashPath": "microsoft.xaml.behaviors.wpf.1.1.31.nupkg.sha512"
+    },
+    "MvvmLightLibsStd10/5.4.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zU9KXgq8dfnzxxOvvAVtasbhaQGoDlTr8Pw2AjZ1NB905GQljrxqkgh3jo5/47Vux5duw3/faUgcZjdfomGvFw==",
+      "path": "mvvmlightlibsstd10/5.4.1.1",
+      "hashPath": "mvvmlightlibsstd10.5.4.1.1.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "PropertyChanged.Fody/3.3.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/K/X8wn2IZV7Zezb+WvieOalWopFJKEcB7BrPoDFCj74VexupWdtvqriCoifSyrX0E+XhTzk0cVQd26hQ7TODg==",
+      "path": "propertychanged.fody/3.3.1",
+      "hashPath": "propertychanged.fody.3.3.1.nupkg.sha512"
+    },
+    "SimpleInjector/5.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-c9ff5vallE4GO5OoDX5FL99pcxbx4HDI5O7aPnnxaom9SwaEHXZA0yvoRhzkUAmnvKxBwpv2GtVWlf5gSAoQrw==",
+      "path": "simpleinjector/5.2.0",
+      "hashPath": "simpleinjector.5.2.0.nupkg.sha512"
+    },
+    "Syncfusion.Licensing/18.4.0.33": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FtXAYtRMPaDvUGsMWQx1diSoDS0UZEWDu2xxwzPtirsX4GGDqqvxsMc/rA4J7FcDU2Y0riotc4Qp6bNMaTz1Lw==",
+      "path": "syncfusion.licensing/18.4.0.33",
+      "hashPath": "syncfusion.licensing.18.4.0.33.nupkg.sha512"
+    },
+    "Syncfusion.SfInput.WPF/18.4.0.33": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4z5OcEiqD7Y7u3/cpyM4PKOznnZBach4RB/9bwyIAxATcnq5u8Jhqcl/dCgP8KMgdttR6DPXn4MEf5W9tMrZgg==",
+      "path": "syncfusion.sfinput.wpf/18.4.0.33",
+      "hashPath": "syncfusion.sfinput.wpf.18.4.0.33.nupkg.sha512"
+    },
+    "Syncfusion.SfShared.WPF/18.4.0.33": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zNzLQGE2akksPyUNI4yJQ6I86kYu5sbQhWw1iTlLAlS302DljSLbTXvmR+Koleg0lSByyzLOZ+S6Y5cJ+cKEgg==",
+      "path": "syncfusion.sfshared.wpf/18.4.0.33",
+      "hashPath": "syncfusion.sfshared.wpf.18.4.0.33.nupkg.sha512"
+    },
+    "System.ComponentModel/4.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oBZFnm7seFiVfugsIyOvQCWobNZs7FzqDV/B7tx20Ep/l3UUFCPDkdTnCNaJZTU27zjeODmy2C/cP60u3D4c9w==",
+      "path": "system.componentmodel/4.0.1",
+      "hashPath": "system.componentmodel.4.0.1.nupkg.sha512"
+    },
+    "System.Runtime/4.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-v6c/4Yaa9uWsq+JMhnOFewrYkgdNHNG2eMKuNqRn8P733rNXeRCGvV5FkkjBXn2dbVkPXOsO0xjsEeM1q2zC0g==",
+      "path": "system.runtime/4.1.0",
+      "hashPath": "system.runtime.4.1.0.nupkg.sha512"
+    },
+    "WindowsAPICodePack-Core/1.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GoURoQuE7ea7B7q24YRTBfZbsNO7ZtwSyBHbM8zO0ynwfjAGC0bbAmVrDvZ6HbWtqqOt6QTzdmYnj2WJglb5JQ==",
+      "path": "windowsapicodepack-core/1.1.1",
+      "hashPath": "windowsapicodepack-core.1.1.1.nupkg.sha512"
+    },
+    "WindowsAPICodePack-Shell/1.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CPFamhL3jPo8O6+ErGsLS4LK3DWP5ncxqhbzpPnYkIW9rjatunUij35iTjprbr9mlYR/5Pbguw21MwSmTOKR4g==",
+      "path": "windowsapicodepack-shell/1.1.1",
+      "hashPath": "windowsapicodepack-shell.1.1.1.nupkg.sha512"
+    },
+    "HealthCare/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

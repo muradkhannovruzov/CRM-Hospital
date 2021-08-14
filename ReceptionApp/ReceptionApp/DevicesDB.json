@@ -1,0 +1,56 @@
+[
+
+  {
+    "IsBusy": true,
+    "Name": "Hospital Stretchers",
+    "Profit": 10.0,
+    "Count" : 1
+  },
+  {
+    "IsBusy": false,
+    "Name": "Defibrillators",
+    "Profit": 34.0,
+    "Count": 2
+  },
+  {
+    "IsBusy": false,
+    "Name": "Anesthesia Machines",
+    "Profit": 41.0,
+    "Count": 3
+  },
+  {
+    "IsBusy": true,
+    "Name": "Patient Monitors",
+    "Profit": 12.0,
+    "Count": 1
+  },
+  {
+    "IsBusy": true,
+    "Name": "EKG/ECG Machines",
+    "Profit": 21.0,
+    "Count": 1
+  },
+  {
+    "IsBusy": false,
+    "Name": "Surgical Tables",
+    "Profit": 55.0
+  },
+  {
+    "IsBusy": false,
+    "Name": "Blanket and Fluid Warmers",
+    "Profit": 17.0,
+    "Count": 5
+  },
+  {
+    "IsBusy": true,
+    "Name": "Electrosurgical Units",
+    "Profit": 53.0,
+    "Count": 1
+  },
+  {
+    "IsBusy": false,
+    "Name": " Surgical Lights",
+    "Profit": 78.0,
+    "Count": 6
+  }
+]

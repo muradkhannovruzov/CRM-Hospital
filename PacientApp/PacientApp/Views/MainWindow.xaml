@@ -1,0 +1,27 @@
+﻿<Window x:Class="PacientApp.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PacientApp.Views"
+        xmlns:vm="clr-namespace:PacientApp.ViewModels"
+        xmlns:v="clr-namespace:PacientApp.Views"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="600">
+
+    <Window.Resources>
+        <DataTemplate DataType="{x:Type vm:LoginUCVM}">
+            <v:LoginUC/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type vm:RegisterUCVM}">
+            <v:RegisterUC/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type vm:HomeUCVM}">
+            <v:HomeUC/>
+        </DataTemplate>
+    </Window.Resources>
+
+    <Grid>
+        <ContentControl Content="{Binding CurrentVM}"/>
+    </Grid>
+</Window>

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="VIews\HomeUC.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="VIews\LoginUC.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="VIews\Process.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="VIews\ProfileUC.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="VIews\ProsedursUC.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="VIews\ScheduleUC.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="ResourceDirectory.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="VIews\ForProcess.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="VIews\ForProsedurs.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="VIews\HomeUC.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="VIews\LoginUC.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="VIews\Process.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="VIews\ProfileUC.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="VIews\ProsedursUC.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="VIews\ScheduleUC.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

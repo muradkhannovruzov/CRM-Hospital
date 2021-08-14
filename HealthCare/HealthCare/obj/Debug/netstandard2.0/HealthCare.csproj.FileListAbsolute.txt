@@ -1,0 +1,44 @@
+C:\Users\Samsung PC\source\repos\HealthCare\HealthCare\bin\Debug\netstandard2.0\HealthCare.deps.json
+C:\Users\Samsung PC\source\repos\HealthCare\HealthCare\bin\Debug\netstandard2.0\HealthCare.dll
+C:\Users\Samsung PC\source\repos\HealthCare\HealthCare\bin\Debug\netstandard2.0\HealthCare.pdb
+C:\Users\Samsung PC\source\repos\HealthCare\HealthCare\obj\Debug\netstandard2.0\HealthCare.csprojAssemblyReference.cache
+C:\Users\Samsung PC\source\repos\HealthCare\HealthCare\obj\Debug\netstandard2.0\HealthCare.AssemblyInfoInputs.cache
+C:\Users\Samsung PC\source\repos\HealthCare\HealthCare\obj\Debug\netstandard2.0\HealthCare.AssemblyInfo.cs
+C:\Users\Samsung PC\source\repos\HealthCare\HealthCare\obj\Debug\netstandard2.0\HealthCare.csproj.CoreCompileInputs.cache
+C:\Users\Samsung PC\source\repos\HealthCare\HealthCare\obj\Debug\netstandard2.0\HealthCare.dll
+C:\Users\Samsung PC\source\repos\HealthCare\HealthCare\obj\Debug\netstandard2.0\HealthCare.pdb
+C:\Users\Haci\Desktop\Prj\HealthCare\HealthCare\bin\Debug\netstandard2.0\HealthCare.deps.json
+C:\Users\Haci\Desktop\Prj\HealthCare\HealthCare\bin\Debug\netstandard2.0\HealthCare.dll
+C:\Users\Haci\Desktop\Prj\HealthCare\HealthCare\bin\Debug\netstandard2.0\HealthCare.pdb
+C:\Users\Haci\Desktop\Prj\HealthCare\HealthCare\obj\Debug\netstandard2.0\HealthCare.csprojAssemblyReference.cache
+C:\Users\Haci\Desktop\Prj\HealthCare\HealthCare\obj\Debug\netstandard2.0\HealthCare.AssemblyInfoInputs.cache
+C:\Users\Haci\Desktop\Prj\HealthCare\HealthCare\obj\Debug\netstandard2.0\HealthCare.AssemblyInfo.cs
+C:\Users\Haci\Desktop\Prj\HealthCare\HealthCare\obj\Debug\netstandard2.0\HealthCare.csproj.CoreCompileInputs.cache
+C:\Users\Haci\Desktop\Prj\HealthCare\HealthCare\obj\Debug\netstandard2.0\HealthCare.dll
+C:\Users\Haci\Desktop\Prj\HealthCare\HealthCare\obj\Debug\netstandard2.0\HealthCare.pdb
+C:\Users\Haci\Desktop\HomeWork\HealthCare\HealthCare\bin\Debug\netstandard2.0\HealthCare.deps.json
+C:\Users\Haci\Desktop\HomeWork\HealthCare\HealthCare\bin\Debug\netstandard2.0\HealthCare.dll
+C:\Users\Haci\Desktop\HomeWork\HealthCare\HealthCare\bin\Debug\netstandard2.0\HealthCare.pdb
+C:\Users\Haci\Desktop\HomeWork\HealthCare\HealthCare\obj\Debug\netstandard2.0\HealthCare.AssemblyInfoInputs.cache
+C:\Users\Haci\Desktop\HomeWork\HealthCare\HealthCare\obj\Debug\netstandard2.0\HealthCare.AssemblyInfo.cs
+C:\Users\Haci\Desktop\HomeWork\HealthCare\HealthCare\obj\Debug\netstandard2.0\HealthCare.csproj.CoreCompileInputs.cache
+C:\Users\Haci\Desktop\HomeWork\HealthCare\HealthCare\obj\Debug\netstandard2.0\HealthCare.dll
+C:\Users\Haci\Desktop\HomeWork\HealthCare\HealthCare\obj\Debug\netstandard2.0\HealthCare.pdb
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\HealthCare\HealthCare\bin\Debug\netstandard2.0\HealthCare.deps.json
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\HealthCare\HealthCare\bin\Debug\netstandard2.0\HealthCare.dll
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\HealthCare\HealthCare\bin\Debug\netstandard2.0\HealthCare.pdb
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\HealthCare\HealthCare\obj\Debug\netstandard2.0\HealthCare.csprojAssemblyReference.cache
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\HealthCare\HealthCare\obj\Debug\netstandard2.0\HealthCare.AssemblyInfoInputs.cache
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\HealthCare\HealthCare\obj\Debug\netstandard2.0\HealthCare.AssemblyInfo.cs
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\HealthCare\HealthCare\obj\Debug\netstandard2.0\HealthCare.csproj.CoreCompileInputs.cache
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\HealthCare\HealthCare\obj\Debug\netstandard2.0\HealthCare.dll
+C:\Users\zabil\Documents\GitHub\FSDE_2912_az_WPF_Exam_Team1\HealthCare\HealthCare\obj\Debug\netstandard2.0\HealthCare.pdb
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\HealthCare\HealthCare\bin\Debug\netstandard2.0\HealthCare.deps.json
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\HealthCare\HealthCare\bin\Debug\netstandard2.0\HealthCare.dll
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\HealthCare\HealthCare\bin\Debug\netstandard2.0\HealthCare.pdb
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\HealthCare\HealthCare\obj\Debug\netstandard2.0\HealthCare.csprojAssemblyReference.cache
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\HealthCare\HealthCare\obj\Debug\netstandard2.0\HealthCare.AssemblyInfoInputs.cache
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\HealthCare\HealthCare\obj\Debug\netstandard2.0\HealthCare.AssemblyInfo.cs
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\HealthCare\HealthCare\obj\Debug\netstandard2.0\HealthCare.csproj.CoreCompileInputs.cache
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\HealthCare\HealthCare\obj\Debug\netstandard2.0\HealthCare.dll
+C:\Users\Samur\OneDrive\Masaüstü\FSDE_2912_az_WPF_Exam_Team1\HealthCare\HealthCare\obj\Debug\netstandard2.0\HealthCare.pdb

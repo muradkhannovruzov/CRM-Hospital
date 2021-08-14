@@ -1,0 +1,42 @@
+﻿<UserControl x:Class="DoctorApp.VIews.HomeUC"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DoctorApp.VIews"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <UserControl.Resources>
+        <ResourceDictionary Source="ForProsedurs.xaml"/>
+    </UserControl.Resources>
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Images/Doctor.png"/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <ListBox ItemTemplate="{StaticResource ForVotes}" FontSize="20" ItemsSource="{Binding votes,UpdateSourceTrigger=PropertyChanged}">
+        </ListBox>
+        <ListBox HorizontalAlignment="Right" Grid.Column="2" ItemTemplate="{StaticResource ForOldProsedurs}" FontSize="20" ItemsSource="{Binding OldPacients,UpdateSourceTrigger=PropertyChanged}">
+        </ListBox>
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <ListBox SelectedIndex="{Binding Index,UpdateSourceTrigger=PropertyChanged}" FontSize="20" ItemsSource="{Binding OldProsedurs,UpdateSourceTrigger=PropertyChanged}">
+            </ListBox>
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <ListBox FontSize="20" ItemsSource="{Binding SelectedDevice,UpdateSourceTrigger=PropertyChanged}"/>
+                <ListBox Grid.Column="1" FontSize="20" ItemsSource="{Binding SelectedMedicine,UpdateSourceTrigger=PropertyChanged}"/>
+            </Grid>
+        </Grid>
+    </Grid>
+</UserControl>

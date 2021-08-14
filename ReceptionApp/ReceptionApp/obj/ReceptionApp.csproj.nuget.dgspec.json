@@ -1,0 +1,95 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Samur\\OneDrive\\Masaüstü\\FSDE_2912_az_WPF_Exam_Team1\\ReceptionApp\\ReceptionApp\\ReceptionApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Samur\\OneDrive\\Masaüstü\\FSDE_2912_az_WPF_Exam_Team1\\ReceptionApp\\ReceptionApp\\ReceptionApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Samur\\OneDrive\\Masaüstü\\FSDE_2912_az_WPF_Exam_Team1\\ReceptionApp\\ReceptionApp\\ReceptionApp.csproj",
+        "projectName": "ReceptionApp",
+        "projectPath": "C:\\Users\\Samur\\OneDrive\\Masaüstü\\FSDE_2912_az_WPF_Exam_Team1\\ReceptionApp\\ReceptionApp\\ReceptionApp.csproj",
+        "packagesPath": "C:\\Users\\Samur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Samur\\OneDrive\\Masaüstü\\FSDE_2912_az_WPF_Exam_Team1\\ReceptionApp\\ReceptionApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Samur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.3.0, )"
+            },
+            "MaterialDesignThemes": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Microsoft.Xaml.Behaviors.Wpf": {
+              "target": "Package",
+              "version": "[1.1.19, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "PropertyChanged.Fody": {
+              "target": "Package",
+              "version": "[3.3.1, )"
+            },
+            "SimpleInjector": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "Syncfusion.SfInput.WPF": {
+              "target": "Package",
+              "version": "[18.4.0.31, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

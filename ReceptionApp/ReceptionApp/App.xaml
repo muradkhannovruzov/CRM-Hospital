@@ -1,0 +1,30 @@
+﻿<Application x:Class="ReceptionApp.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:ReceptionApp" xmlns:System="clr-namespace:System;assembly=mscorlib"  xmlns:enm="clr-namespace:ReceptionApp.Model"             
+             StartupUri="View/MainWindow.xaml">
+    <Application.Resources>
+    <ResourceDictionary>
+      <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Light.xaml" />
+        <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" />
+        <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Primary/MaterialDesignColor.DeepPurple.xaml" />
+        <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Accent/MaterialDesignColor.Lime.xaml" />
+      </ResourceDictionary.MergedDictionaries>
+
+       <ObjectDataProvider x:Key="DoctorCategories" MethodName="GetValues" ObjectType="{x:Type System:Enum}">
+           <ObjectDataProvider.MethodParameters>
+               <x:Type TypeName="enm:DoctorCategories"></x:Type>
+           </ObjectDataProvider.MethodParameters>
+       </ObjectDataProvider>
+
+       <ObjectDataProvider x:Key="TypeOfRoom" MethodName="GetValues" ObjectType="{x:Type System:Enum}">
+           <ObjectDataProvider.MethodParameters>
+              <x:Type TypeName="enm:TypeOfRoom"></x:Type>
+           </ObjectDataProvider.MethodParameters>
+       </ObjectDataProvider>
+
+    </ResourceDictionary>
+ 
+    </Application.Resources>
+</Application>

@@ -1,0 +1,22 @@
+[  
+  {
+    "Name": "CheckUp",    
+    "Price": 120.0    
+  },
+  {
+    "Name": "Operation",   
+    "Price": 300.0   
+  },
+  {
+    "Name": "Diagnostic",    
+    "Price": 450.0    
+  },
+  {
+    "Name": "Therapeutic",   
+    "Price": 140.0    
+  },
+  {
+    "Name": "Rehabilitative",   
+    "Price": 460.0
+  }
+]

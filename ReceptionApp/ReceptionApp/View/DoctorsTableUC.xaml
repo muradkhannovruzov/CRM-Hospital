@@ -1,0 +1,20 @@
+﻿<UserControl x:Class="ReceptionApp.View.DoctorsTableUC"             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"              xmlns:local="clr-namespace:ReceptionApp.View"
+             mc:Ignorable="d"              d:DesignHeight="450" d:DesignWidth="800">
+    
+    <Grid>          
+        <DataGrid ItemsSource="{Binding DoctorWorkList}" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Name" Binding="{Binding Name}" Width="*"/>
+                <DataGridTextColumn Header="M" Binding="{Binding Schedule.ScheduleElements[0].BeginTime}" Width="*"/>
+                <DataGridTextColumn Header="T" Binding="{Binding Schedule.ScheduleElements[1].BeginTime}" Width="*"/>
+                <DataGridTextColumn Header="W" Binding="{Binding Schedule.ScheduleElements[2].BeginTime}" Width="*"/>
+                <DataGridTextColumn Header="Th" Binding="{Binding Schedule.ScheduleElements[3].BeginTime}" Width="*"/>
+                <DataGridTextColumn Header="F" Binding="{Binding Schedule.ScheduleElements[4].BeginTime}" Width="*"/>
+                <DataGridTextColumn Header="S" Binding="{Binding Schedule.ScheduleElements[5].BeginTime}" Width="*"/>
+                <DataGridTextColumn Header="Sun" Binding="{Binding Schedule.ScheduleElements[6].BeginTime}" Width="*"/>    
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</UserControl>
